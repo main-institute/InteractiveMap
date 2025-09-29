@@ -9,7 +9,7 @@ A Library to use SVG Based Maps interactively in SwiftUI.
 
 Note! SVG Parsing is not yet in its final form, so some SVGs may not be parsed correctly. But as far as I can see almost every map is drawn correctly. You can see the maps I tried in the [Maps](./Maps) section.
 
-Maps are taken from [FSInteractiveMap](https://github.com/ArthurGuibert/FSInteractiveMap) Repository
+Maps are taken from [FSInteractiveMap](https://github.com/main-institute/FSInteractiveMap) Repository
 
 <h3 style ="text-align: center">Installation</h3> 
 <p>Requires <b>iOS 13+</b> 
